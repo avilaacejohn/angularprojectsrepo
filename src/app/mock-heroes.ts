@@ -8,6 +8,6 @@ export const HEROES: Hero[] = [
   { id: 5, name: 'Jomari Ceballe' },
   { id: 6, name: 'Marlon Macatuno' },
   { id: 7, name: 'Gene Loverboy' },
-  { id: 8, name: 'Maben Rosete' }
-  { id: 9, name: 'Ace John Avila' },
+  { id: 8, name: 'Maben Rosete' },
+  { id: 9, name: 'Ace John Avila' }
 ];

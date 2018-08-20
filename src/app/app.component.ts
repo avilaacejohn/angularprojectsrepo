@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'iMatrix Web Designers';
+  sub_title = 'Knights of Legendary Linda Wise';
 }
